@@ -11,3 +11,5 @@
  ~/a.out 
 Hello world.
 ```
+
+* Executable for Windows [a.exe](a.exe)

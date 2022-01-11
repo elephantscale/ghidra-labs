@@ -12,4 +12,7 @@
 
 
 ## Special Mac issue
+
+* Follow this instruction [https://support.apple.com/en-us/HT202491](https://support.apple.com/en-us/HT202491)
 ![](../images/01.png)
+
