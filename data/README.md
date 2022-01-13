@@ -4,7 +4,7 @@
 
 ### Code 
 * [Hello world](hello_world.c)
-* Executable [a.out](a.out)
+* Executable [a.out](a_mac.out)
 * To run
 
 ```text
@@ -12,4 +12,4 @@
 Hello world.
 ```
 
-* Executable for Windows [a.exe](a.exe)
+* Executable for Windows [a.exe](a_win.exe)
