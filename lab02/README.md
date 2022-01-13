@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Lab 02: Data investigation
+# Lab 02: Compile and decompile
 
 ## Overview
 * Let us look at the data
@@ -11,11 +10,13 @@ None
 ## Run time
 20 mins
 
-## Step 1: Run the `c1`, `c2`, `c3`, `c4`
+## Step 1: `hello_world.c`
 
-* In the Linux or Mac, run the program
-* Instructor will demo the lab to see what needs to be done
-
-### Step 2: `hello_world.c`
+* Compile the `hello_world.c` code
+* Get an executable for Linux, Mac, Windows
+* Run it
+* Doing your compile will be useful if you want to change it
+* You can always use the provided executables
+* 
 ![](../images/02.png)
 
