@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lab 02: Data investigation
 
 ## Overview
@@ -16,3 +17,5 @@ None
 * Instructor will demo the lab to see what needs to be done
 
 ### Step 2: `hello_world.c`
+![](../images/02.png)
+
