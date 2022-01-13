@@ -6,7 +6,7 @@
 1. Install Ghidra on the OS of your choice
     * Install Ghidra
     * Verify the install
-    * Deal with security issues
+    * Deal with possible security issues
 
 
 
