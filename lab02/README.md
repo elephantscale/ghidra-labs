@@ -5,10 +5,11 @@
 * We will be using this 
 
 ## Depends On
-None
+* [Lab 01](../lab01), Ghidra install
+
 
 ## Run time
-20 mins
+30 mins
 
 ## Step 1: Compile a sample program
 
@@ -76,6 +77,11 @@ None
 
 
 * Click on the listing (assembly) and observe the decompiled view (C)
+
+## Analyze the executable for all three platforms: Linux, Mac, Windows
+
+![](../images/12.png)
+
 
 ## Congratulations on completing the lab!
 
