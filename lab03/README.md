@@ -1,21 +1,16 @@
-# Lab 02: Data investigation
+# Lab 03: Decompile files
 
 ## Overview
-* Let us look at the data
-* We will be using this 
+* Let us look at the executables
+* Decompile and analyze them
 
 ## Depends On
-None
+* [Lab 01](../lab01), Ghidra install
+
 
 ## Run time
-20 mins
+30 mins
 
-## Step 1: Run the `c1`
-
-* In the Linux or Mac, run the program
-* Instructor will demo the lab to see what needs to be done
-
-### Step 2: `hello_world.c`
-
-![](../images/02.png)
-
+## Step 1: Investigate c1
+* You will need a Linux environment to run the code
+* But you will only need Ghidra to investigate it
