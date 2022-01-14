@@ -49,3 +49,9 @@ Wrong answer, we'd never use dhdie as the password!
 * But we want this
 
 ![](../images/17.png)
+
+* Keep analyzing the code until you know the password
+* Verify that you have cracked the code by running the password
+* Save your work
+* Close the Ghidra
+* Reopen it and verify that you work was saved
