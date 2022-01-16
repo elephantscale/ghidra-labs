@@ -22,6 +22,8 @@
 
 * So, let's load it into Ghidra
 
+### Step 2: Load into Ghidra
+
 ![](../images/19.png)
 
 * Analyze the executable
@@ -31,6 +33,8 @@
 * Do the usual changes
 
 ![](../images/21.png)
+
+### Step 3: Color the variables
 
 * Start renaming variables (Right click of CTRL-L)
 
@@ -43,6 +47,11 @@
 * And there - all `length`s are highlighted
 
 ![](../images/24.png)
+
+### Step 4: Analyze the code and figure out the password
+
+![](../images/25.png)
+
 
 
 
