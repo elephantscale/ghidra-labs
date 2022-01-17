@@ -48,10 +48,9 @@
 
 ### Step 3: Do the hex calculations
 
-
 ### Step 4: Figure out the password
 
-
+### Step 5: Declare victory
 
 
 
