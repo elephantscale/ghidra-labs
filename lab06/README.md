@@ -1,8 +1,8 @@
-# Lab 06: Code analysis
+# Lab 06: Code analysis and solving riddles
 
 ## Overview
-* Stepping into functions
-* Adding comments
+* Deeper analysis
+* Detailed thinking
 
 ## Depends On
 * [Lab 01](../lab01), Ghidra install
